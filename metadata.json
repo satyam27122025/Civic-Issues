@@ -1,0 +1,7 @@
+{
+  "name": "Civic Issue Reporter",
+  "description": "A platform for citizens to report, track, and discuss civic issues in their community, empowered by AI for intelligent prioritization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
